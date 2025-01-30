@@ -1,0 +1,1 @@
+A simple library management system using SQLite for book borrowing, returning, and user authentication. It includes admin features for managing books and users for tracking borrowing history and fines.
